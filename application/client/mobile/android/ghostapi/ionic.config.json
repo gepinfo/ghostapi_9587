@@ -1,0 +1,7 @@
+{
+  "name": "ghostapi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
